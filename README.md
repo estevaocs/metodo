@@ -1,6 +1,6 @@
 # metodo
 
-*TÍTULO DO TRABALHO*
+*Projeto Orientado a Objetos*
 
 Integrantes:
 - Estevão Cristino
