@@ -8,18 +8,20 @@ Integrantes:
 - João Pedro Rodrigues
 - Pedro Henrique Coimbra
 
-Organização:
-Trabalho será dividido em quatro partes, onde cada uma será designada a cada integrante.
-As partes são: 
+Planejamento:
 
-- 1.Introdução;
-- 2.Entradas para o Design Orientado a Objetos;
-- 3.Conceitos de Design Orientado a Objetos;
-- 4.Saídas do Design Orientado a Objetos;
-
-Onde cada integrante designado à cada tópico é:
-
-- 1.Estevão Cristino;
-- 2.Pedro Henrique Coimbra;
-- 3.João Pedro Rodrigues;
-- 4.Pedro Henrique Coimbra;
+- 1.Localizar as referências (individual)
+- 2.Selecionar as referências (grupo)
+- 3.Armazenar as referências encontradas na pasta do grupo (individual)
+- 4.Ambientar-se com o conteúdo das referências (individual)
+- 5.Destacar pontos relevantes do conteúdo estudado (individual)
+- 6.Refinar os pontos relevantes pertinentes segundo consenso (grupo)
+- 7.Revisão do planejamento já executado (grupo)
+- 8.Definir a estrutura do trabalho textual (grupo)
+- 9.Executar a escrita do trabalho textual (individual)
+- 10.Revisar o conteúdo do trabalho textual (grupo)
+- 11.Realizar a construção dos slides baseados no trabalho textual (individual)
+- 12.Revisar o conteúdo dos slides (grupo)
+- 13.Definir a estrutura e conteúdo do trabalho em vídeo (grupo)
+- 14.Realizar a construção do trabalho em vídeo (individual)
+- 15.Revisar o conteúdo do trabalho em vídeo (grupo)
