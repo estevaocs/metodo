@@ -2,13 +2,13 @@
 
 *Projeto Orientado a Objetos*
 
-Integrantes:
+## Integrantes:
 - Estevão Cristino
 - Gabriel Pacheco
 - João Pedro Rodrigues
 - Pedro Henrique Coimbra
 
-Planejamento:
+## Planejamento:
 
 - 1.Localizar as referências (individual)
 - 2.Selecionar as referências (grupo)
@@ -25,3 +25,7 @@ Planejamento:
 - 13.Definir a estrutura e conteúdo do trabalho em vídeo (grupo)
 - 14.Realizar a construção do trabalho em vídeo (individual)
 - 15.Revisar o conteúdo do trabalho em vídeo (grupo)
+
+## Documentos:
+* [Documento Texto](https://docs.google.com/document/d/1UMtIk5ZbPptA5emstl9JsiV7pkIkvFpMrbqYlQLNgE8/edit?usp=sharing)
+* [Apresentação](https://docs.google.com/presentation/d/15D7eSTQcsQgdb6dA348V4glK37rL0t7VvQYr0Ekr6k8/edit?usp=sharing)
